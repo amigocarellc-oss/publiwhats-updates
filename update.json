@@ -1,7 +1,7 @@
 {
   "version": "17.0.0.0",
-  "downloadUrl": "",
-  "changelog": "Versión inicial",
+  "downloadUrl": "https://github.com/amigocarellc-oss/publiwhats-updates/releases/download/v17.0.0.0/PubliWhats_Setup_v17.0.0.0.exe",
+  "changelog": "Sistema de auto-actualizacion integrado. Mejoras de rendimiento y estabilidad.",
   "mandatory": false,
-  "fileSize": 0
+  "fileSize": 3764224
 }
