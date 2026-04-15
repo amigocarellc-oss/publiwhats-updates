@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0.0",
-  "downloadUrl": "https://github.com/amigocarellc-oss/publiwhats-updates/releases/download/v3.0.0.0/PubliWhats_Setup_v2.0.0.0.exe",
+  "version": "3.0.0.1",
+  "downloadUrl": "https://github.com/amigocarellc-oss/publiwhats-updates/releases/download/v3.0.0.1/PubliWhats_Setup_v3.0.0.1.exe",
   "changelog": "Sistema de auto-actualizacion integrado. Mejoras de rendimiento y estabilidad.",
   "mandatory": false,
   "fileSize": 3764224
